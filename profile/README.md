@@ -10,14 +10,14 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 
 ## Capstone Project Team 
 
-| Bangkit-ID | Name | Github-Profile |
-| ------ | ------ | ------ | 
-| M7007G0661 | Anugrah Tri Ramadhan | https://github.com/RamaReksotinoyo |
-| M2008F0864 | Rhamdan Syahrul Mubarak | https://github.com/rhamdansm |
-| A7008F0883 | Ni'Matul Husna | https://github.com/Nimatulhusna |
-| A2008F0880 | Nabila Apriliana Widiyono | https://github.com/nabilaapriliana |
-| C2014F1370 | Adisti Anjani Putri | https://github.com/adistianjani |
-| C2224W2055 | Muthia Farah Hanifa |  https://github.com/muthiafarrr |
+| Bangkit-ID | Name | Learning Path |
+| ------ | ------ | ------ |
+| M7007G0661 | [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Mobile Development |
+| M2008F0864 | [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Mobile Development |
+| A7008F0883 | [Ni'Matul Husna](https://github.com/Nimatulhusna) | Machine Learning |
+| A2008F0880 | [Nabila Apriliana Widiyono](https://github.com/nabilaapriliana) | Machine Learning |
+| C2014F1370 | [Adisti Anjani Putri](https://github.com/adistianjani) | Cloud Computing |
+| C2224W2055 | [Muthia Farah Hanifa](https://github.com/muthiafarrr) | Cloud Computing |
 
 ## Features for Consumer-side
 
