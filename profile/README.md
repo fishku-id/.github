@@ -8,6 +8,11 @@ and buyers/consumers. Of course, it also requires marketing to promote and sell 
 Therefore, the necessary analysis and design of e-commerce for the marketing of processed fishery. This application aims to digitalize indonesian fisheries 
 and to prevent price monopoly by middlemen so the fishermen's income can be increased.
 
+## Repositories
+- [Mobile Development](https://github.com/fishku-id/Fishku-NobileDevelopment)
+- [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
+- [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
+
 ## Capstone Project Team 
 
 | Bangkit-ID | Name | Learning Path |
