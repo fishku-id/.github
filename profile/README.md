@@ -13,10 +13,10 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 - [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
 - [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
 
-## Capstone Project Team 
+## Team 
 
 | Bangkit-ID | Name | Learning Path |
-| ------ | ------ | ------ |
+| :-------------------------: | :--------: | :----------------: | 
 | M7007G0661 | [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Mobile Development |
 | M2008F0864 | [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Mobile Development |
 | A7008F0883 | [Ni'Matul Husna](https://github.com/Nimatulhusna) | Machine Learning |
@@ -27,7 +27,7 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 ## Features for Consumer-side
 
 | Profile Consumer | Fish Caught | Cart | Ordering | History | Freshness Detection |
-| ------ | ------ | ------ | ----- | ----- | ----- |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Name | Fish name | Quantity | Time Order | Status Order | Take a Picture from Fish Eye |
 | Phone Number | Description  | Expedition Service | Address |  | Result of Freshness Detection |
 | Email | Photo | Notes |  |  | |
@@ -36,7 +36,7 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 |  | Stock |  |  |  | |
 |  | Price |  |  |  | |
 
-## UI FI$HKU APPS
+## User Interface
 
 [Figma](https://www.figma.com/file/zw1PcImhnitHGJJzz3kz1u/FI%24HKU-APP?node-id=0%3A1)
 
