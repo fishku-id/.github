@@ -17,10 +17,10 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 
 | Bangkit-ID | Name | Learning Path |
 | :-------------------------: | :--------: | :----------------: | 
-| M7007G0661 | [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Mobile Development |
-| M2008F0864 | [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Mobile Development |
-| A7008F0883 | [Ni'Matul Husna](https://github.com/Nimatulhusna) | Machine Learning |
-| A2008F0880 | [Nabila Apriliana Widiyono](https://github.com/nabilaapriliana) | Machine Learning |
+| M7007G0661 | [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Machine Learning |
+| M2008F0864 | [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Machine Learning |
+| A7008F0883 | [Ni'Matul Husna](https://github.com/Nimatulhusna) | Mobile Development |
+| A2008F0880 | [Nabila Apriliana Widiyono](https://github.com/nabilaapriliana) | Mobile Development |
 | C2014F1370 | [Adisti Anjani Putri](https://github.com/adistianjani) | Cloud Computing |
 | C2224W2055 | [Muthia Farah Hanifa](https://github.com/muthiafarrr) | Cloud Computing |
 
