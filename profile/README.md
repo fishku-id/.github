@@ -9,7 +9,7 @@ Therefore, the necessary analysis and design of e-commerce for the marketing of 
 and to prevent price monopoly by middlemen so the fishermen's income can be increased.
 
 ## Repositories
-- [Mobile Development](https://github.com/fishku-id/Fishku-NobileDevelopment)
+- [Android Development](https://github.com/fishku-id/Fishku-AndroidDevelopment)
 - [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
 - [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
 
