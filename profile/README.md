@@ -1,4 +1,4 @@
-# Distribution System of Marine Fish Caught by Fishermen for Sale to Consumers Based on a Mobile Apps (Fi$hku)
+# Distribution System of Marine Fish Caught by Fishermen for Sale to Consumers Based on a Mobile Apps (FISHKU)
 
 Indonesia as an archipelagic country has a large enough potential for fish resources (6,520,100 tons/year),
 as stated in the Decree of the Minister of Marine Affairs and Fisheries number KEP.45/MEN/2011 concerning the potential of Indonesia's marine resources. 
@@ -8,12 +8,12 @@ and buyers/consumers. Of course, it also requires marketing to promote and sell 
 Therefore, the necessary analysis and design of e-commerce for the marketing of processed fishery. This application aims to digitalize indonesian fisheries 
 and to prevent price monopoly by middlemen so the fishermen's income can be increased.
 
-## Repositories
+# Repositories
 - [Android Development](https://github.com/fishku-id/Fishku-AndroidDevelopment)
 - [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
 - [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
 
-## Team 
+# Team 
 
 | Bangkit-ID | Name | Learning Path |
 | :-------------------------: | :--------: | :----------------: | 
@@ -24,7 +24,7 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 | C2014F1370 | [Adisti Anjani Putri](https://github.com/adistianjani) | Cloud Computing |
 | C2224W2055 | [Muthia Farah Hanifa](https://github.com/muthiafarrr) | Cloud Computing |
 
-## Features for Consumer-side
+# Features for Consumer-side
 
 | Profile Consumer | Fish Caught | Cart | Ordering | History | Freshness Detection |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
@@ -36,10 +36,5 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 |  | Stock |  |  |  | |
 |  | Price |  |  |  | |
 
-## User Interface
-
-[Figma](https://www.figma.com/file/zw1PcImhnitHGJJzz3kz1u/FI%24HKU-APP?node-id=0%3A1)
-
-## API Documentations
-
-[API Docs](https://docs.google.com/spreadsheets/d/1omsQ0-AptgsEa4gTAkWx9a4gFRtGzfAZEsuSfxWwBIU)
+# Application Architecture
+![Cloud Architecture](https://user-images.githubusercontent.com/79828903/173266172-4068a42f-d18a-4440-b75a-0c7a390fb806.jpg)
