@@ -37,4 +37,4 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 |  | Price |  |  |  | |
 
 # Application Architecture
-![Cloud Architecture](https://user-images.githubusercontent.com/fishku-id/.github/master/pictures/Cloud-Architecture.jpg)
+![Cloud Architecture](https://raw.githubusercontent.com/fishku-id/.github/master/pictures/Cloud-Architecture.jpg)
