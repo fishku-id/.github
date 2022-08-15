@@ -13,7 +13,7 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 - [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
 - [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
 
-# Team 
+# Teams 
 
 | Bangkit-ID | Name | Learning Path |
 | :-------------------------: | :--------: | :----------------: | 
@@ -37,4 +37,4 @@ and to prevent price monopoly by middlemen so the fishermen's income can be incr
 |  | Price |  |  |  | |
 
 # Application Architecture
-![Cloud Architecture](https://user-images.githubusercontent.com/79828903/173266172-4068a42f-d18a-4440-b75a-0c7a390fb806.jpg)
+![Cloud Architecture](https://user-images.githubusercontent.com/fishku-id/.github/master/pictures/Cloud-Architecture.jpg)
