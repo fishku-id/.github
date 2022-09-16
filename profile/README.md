@@ -9,20 +9,41 @@ Therefore, the necessary analysis and design of e-commerce for the marketing of 
 and to prevent price monopoly by middlemen so the fishermen's income can be increased.
 
 # Repositories
-- [Android Development](https://github.com/fishku-id/Fishku-AndroidDevelopment)
-- [Machine Learning](https://github.com/fishku-id/Fishku-MachineLearning)
-- [Cloud Computing](https://github.com/fishku-id/Fishku-CloudComputing)
+- [Android Development](https://github.com/orgs/fishku-id/teams/android-development-team/repositoriest)
+- [Machine Learning](https://github.com/orgs/fishku-id/teams/machine-learning-team/repositories)
+- [Cloud Computing](https://github.com/orgs/fishku-id/teams/cloud-computing-team/repositories)
 
 # Teams 
 
-| Bangkit-ID | Name | Learning Path |
-| :-------------------------: | :--------: | :----------------: | 
-| M7007G0661 | [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Machine Learning |
-| M2008F0864 | [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Machine Learning |
-| A7008F0883 | [Ni'Matul Husna](https://github.com/Nimatulhusna) | Mobile Development |
-| A2008F0880 | [Nabila Apriliana Widiyono](https://github.com/nabilaapriliana) | Mobile Development |
-| C2014F1370 | [Adisti Anjani Putri](https://github.com/adistianjani) | Cloud Computing |
-| C2224W2055 | [Muthia Farah Hanifa](https://github.com/muthiafarrr) | Cloud Computing |
+<table>
+<th colspan=2>FI$HMATES</th>
+<tr>
+<td>
+
+| Name | Role |
+| :---: | :---: |
+| [Muthia Farah Hanifa](https://github.com/muthiafarrr) | Product Manager |
+| [Anugrah Tri Ramadhan](https://github.com/RamaReksotinoyo) | Machine Learning Engineer |
+| [Rhamdan Syahrul Mubarak](https://github.com/rhamdansm) | Machine Learning Engineer |
+| [Adhani Rizqullah Al Thaafi]() | Social Media Manager |
+| [Ni'Matul Husna](https://github.com/Nimatulhusna) | Marketing & Business |
+| [Nabila Apriliana Widiyono](https://github.com/nabilaapriliana) | Marketing & Business |
+
+</td>
+<td>
+
+| Name | Role |
+| :---: | :---: |
+| [Adisti Anjani Putri](https://github.com/adistianjani) | Cloud Engineer |
+| [Rossario Catherine Elfrida](https://github.com/catherineelfrida) | Cloud Engineer |
+| [Prakoso Dwika Prihambodo](https://github.com/prakosodwika) | Cloud Engineer |
+| [Rahel Kristina Prajnyawati](https://github.com/rahelkristina) | Cloud Engineer |
+| [Fachridan Tio Mu'afa](https://github.com/fachridantm) | Software Engineer |
+| [Muhammad Fatkhu Rohman](https://github.com/fatkhurhmn) | Software Engineer |
+
+</td>
+</tr>
+</table>
 
 # Features for Consumer-side
 
